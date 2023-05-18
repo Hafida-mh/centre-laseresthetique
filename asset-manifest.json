@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b8e8e9de.css",
+    "main.js": "./static/js/main.2388b443.js",
+    "static/js/787.d3befce1.chunk.js": "./static/js/787.d3befce1.chunk.js",
+    "static/media/Minion Condensed.otf": "./static/media/Minion Condensed.591cd1a411c5121336b4.otf",
+    "static/media/3_Plan de travail 1.png": "./static/media/3_Plan de travail 1.361e5018761079418994.png",
+    "static/media/2_Plan de travail 1.png": "./static/media/2_Plan de travail 1.2472825e6fba0d00758e.png",
+    "static/media/4_Plan de travail 1.png": "./static/media/4_Plan de travail 1.e1be0c66264e6cc74c4d.png",
+    "index.html": "./index.html",
+    "main.b8e8e9de.css.map": "./static/css/main.b8e8e9de.css.map",
+    "main.2388b443.js.map": "./static/js/main.2388b443.js.map",
+    "787.d3befce1.chunk.js.map": "./static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e8e9de.css",
+    "static/js/main.2388b443.js"
+  ]
+}
